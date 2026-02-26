@@ -14,7 +14,9 @@
 
 ## Quienes Somos
 
-Somos un estudio de tecnologia colombiano especializado en **desarrollo de software empresarial**, **soluciones de inteligencia artificial** y **arquitectura cloud**. Construimos plataformas escalables que resuelven problemas reales de negocio — desde la idea hasta produccion.
+Compania colombiana especializada en **soluciones integrales de tecnologias de la informacion**: infraestructura, middleware, cloud services, automatizacion de procesos, bases de datos, desarrollo y arquitectura de software. Con **156+ proyectos** ejecutados y **55+ clientes** en sectores de defensa, gobierno, salud, banca y servicios.
+
+Nuestras lineas de negocio: **Desarrollo de Software Empresarial**, **Inteligencia Artificial**, **Bases de Datos** (Oracle, PostgreSQL, MySQL, SQL Server), **Cloud Services**, **Automatizacion e Integracion** y **Soporte y Mantenimiento**.
 
 <br/>
 
@@ -108,7 +110,7 @@ Somos un estudio de tecnologia colombiano especializado en **desarrollo de softw
 </tr>
 </table>
 
-Y 28+ clientes mas en los sectores de **Defensa**, **Gobierno**, **Salud** y **Tecnologia**
+Y 45+ clientes mas en los sectores de **Defensa**, **Gobierno**, **Salud**, **Banca** y **Servicios**
 
 </div>
 
@@ -122,8 +124,8 @@ Y 28+ clientes mas en los sectores de **Defensa**, **Gobierno**, **Salud** y **T
 
 <br/>
 
-**Construyendo tecnologia que importa.**
+**Soluciones integrales de TI — Construyendo tecnologia que importa.**
 
-*Bogota, Colombia*
+*Bogota, Colombia* · *+156 proyectos* · *Desde 2019*
 
 </div>
