@@ -14,13 +14,13 @@
 
 ## Quienes Somos
 
-Compañia colombiana especializada en **soluciones integrales de tecnologias de la informacion**: infraestructura, middleware, cloud services, automatizacion de procesos, bases de datos, desarrollo y arquitectura de software. Con **156+ proyectos** ejecutados y **55+ clientes** en sectores de defensa, gobierno, salud, banca y servicios.
+Compañía colombiana especializada en **soluciones integrales de tecnologías de la información**: infraestructura, middleware, cloud services, automatización de procesos, bases de datos, desarrollo y arquitectura de software. Con **156+ proyectos** ejecutados y **55+ clientes** en sectores de defensa, gobierno, salud, banca y servicios.
 
-Nuestras lineas de negocio: **Desarrollo de Software Empresarial**, **Inteligencia Artificial**, **Bases de Datos** (Oracle, PostgreSQL, MySQL, SQL Server), **Cloud Services**, **Automatizacion e Integracion** y **Soporte y Mantenimiento**.
+Nuestras líneas de negocio: **Desarrollo de Software Empresarial**, **Inteligencia Artificial**, **Bases de Datos** (Oracle, PostgreSQL, MySQL, SQL Server), **Cloud Services**, **Automatización e Integración** y **Soporte y Mantenimiento**.
 
 <br/>
 
-## Stack Tecnologico
+## Stack Tecnológico
 
 <div align="center">
 
@@ -60,7 +60,7 @@ Nuestras lineas de negocio: **Desarrollo de Software Empresarial**, **Inteligenc
 ![Prisma](https://img.shields.io/badge/Prisma_6-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-**AI, ML & Vectorizacion**
+**AI, ML & Vectorización**
 
 ![OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white)
@@ -90,7 +90,7 @@ Nuestras lineas de negocio: **Desarrollo de Software Empresarial**, **Inteligenc
 
 <br/>
 
-## Confian en Nosotros
+## Confían en Nosotros
 
 <div align="center">
 <table>
@@ -110,7 +110,7 @@ Nuestras lineas de negocio: **Desarrollo de Software Empresarial**, **Inteligenc
 </tr>
 </table>
 
-Y 45+ clientes mas en los sectores de **Defensa**, **Gobierno**, **Salud**, **Banca** y **Servicios**
+Y 45+ clientes más en los sectores de **Defensa**, **Gobierno**, **Salud**, **Banca** y **Servicios**
 
 </div>
 
@@ -124,8 +124,8 @@ Y 45+ clientes mas en los sectores de **Defensa**, **Gobierno**, **Salud**, **Ba
 
 <br/>
 
-**Soluciones integrales de TI — Construyendo tecnologia que importa.**
+**Soluciones integrales de TI — Construyendo tecnología que importa.**
 
-*Bogota, Colombia* · *+156 proyectos* · *Desde 2019*
+*Bogotá, Colombia* · *+156 proyectos* · *Desde 2019*
 
 </div>
