@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BIT512TI/.github/main/assets/header.svg" alt="BIT512 Header" width="100%"/>
+<img src="https://raw.githubusercontent.com/BIT512TI/.github/main/assets/header.svg?v=3" alt="BIT512 Header" width="100%"/>
 
 <br/>
 
