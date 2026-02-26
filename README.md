@@ -14,7 +14,7 @@
 
 ## Quienes Somos
 
-Compania colombiana especializada en **soluciones integrales de tecnologias de la informacion**: infraestructura, middleware, cloud services, automatizacion de procesos, bases de datos, desarrollo y arquitectura de software. Con **156+ proyectos** ejecutados y **55+ clientes** en sectores de defensa, gobierno, salud, banca y servicios.
+Compañia colombiana especializada en **soluciones integrales de tecnologias de la informacion**: infraestructura, middleware, cloud services, automatizacion de procesos, bases de datos, desarrollo y arquitectura de software. Con **156+ proyectos** ejecutados y **55+ clientes** en sectores de defensa, gobierno, salud, banca y servicios.
 
 Nuestras lineas de negocio: **Desarrollo de Software Empresarial**, **Inteligencia Artificial**, **Bases de Datos** (Oracle, PostgreSQL, MySQL, SQL Server), **Cloud Services**, **Automatizacion e Integracion** y **Soporte y Mantenimiento**.
 
